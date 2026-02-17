@@ -1,6 +1,8 @@
 # cop-3701-social-media-sentiment-database
 
-The scope of this project is to create a database that stores tweets, hashtags, and sentiment scores for a Twitter database, which the user is able to search by sentiment or by text content.
+The scope of this project is to create a database that stores tweets and sentiment scores from users, as well as classify the tweets based on their sentiment.
+
+There are no significant or unique challenges within this scope that I can notice.
 
 For simplicity's sake I will build it as a single-user database.
 

@@ -1,3 +1,5 @@
-![Screenshot 2026-02-17 111622](https://github.com/user-attachments/assets/17f5c4d3-c249-4833-a6c4-b5ee7e021293)
+<img width="1548" height="562" alt="image" src="https://github.com/user-attachments/assets/f59245ef-1f53-4ba7-b71c-d651becb8ea2" />
 
-There is only one user group, Twitter users.
+M is for Mandatory, O is for Optional. Pa K describes a partial key.
+
+There is only one user group defined here, Twitter users, for showing sentiment data.

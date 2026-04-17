@@ -10,7 +10,7 @@ import random
 # 1 - Top tweets in range ranked by retweet_count
 # 2 - Find count of tweets with a given hashtag
 # 3 - Find average sentiment score of a tweet
-#     Random tweet button
+# 4 - Random tweet button
 # 5 - Get username and bio from email
 
 

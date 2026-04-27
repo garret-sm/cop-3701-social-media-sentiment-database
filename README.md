@@ -6,6 +6,8 @@ The scope of this project is to create a database that stores tweets and sentime
 
 There are no significant or unique challenges within this scope that I can notice.
 
+This program is designed to work out of the box, with no extra code changes required.
+
 I will be using datagrip as my program of choice.
 
 As for data sources, I will be utilizing the given data source through this link:

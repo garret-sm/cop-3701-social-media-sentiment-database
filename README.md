@@ -8,8 +8,8 @@ There are no significant or unique challenges within this scope that I can notic
 
 To start the program, you need to first:
 Run the database.sql file.
-Run preprocess.py.
-Run dataload.py.
+then, run preprocess.py.
+and finally, dataload.py.
 
 Once this is done, do py -m streamlit run app.py.
 

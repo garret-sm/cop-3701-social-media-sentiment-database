@@ -8,7 +8,5 @@ There are no significant or unique challenges within this scope that I can notic
 
 This program is designed to work out of the box, with no extra code changes required, though streamlit is required for it to run.
 
-I will be using datagrip as my program of choice.
-
 As for data sources, I will be utilizing the given data source through this link:
 https://www.kaggle.com/datasets/kazanova/sentiment140

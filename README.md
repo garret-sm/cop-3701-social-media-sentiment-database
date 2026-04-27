@@ -13,9 +13,5 @@ and finally, dataload.py.
 
 Once this is done, do py -m streamlit run app.py.
 
-py -m streamlit run app.py
-or
-python -m streamlit run app.py
-
 As for data sources, I will be utilizing the given data source through this link:
 https://www.kaggle.com/datasets/kazanova/sentiment140
